@@ -1,0 +1,7 @@
+# Dependencias do projeto
+numpy>=1.24.0
+matplotlib>=3.7.0
+scipy>=1.10.0
+control>=0.9.4
+
+# Demo interativa: pip install -r requirements.txt && python src/demo_interativo.py

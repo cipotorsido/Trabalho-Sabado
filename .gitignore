@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.idea/
+.vscode/
+src/*.png
+*.pyc
+.DS_Store
+Thumbs.db
+
+# Arquivos locais (nao publicar no GitHub)
+README.md
+APRESENTACAO.md

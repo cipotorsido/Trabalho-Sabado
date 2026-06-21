@@ -1,0 +1,13 @@
+Margens de Estabilidade
+
+[SIMC — PI]
+  gain_margin_db: inf
+  phase_margin_deg: 0.0
+  omega_cg_rad_s: nan
+  omega_cp_rad_s: 1.0000000000000007
+
+[Refinada — PID Kp=1.5 Ki=0.5 Kd=0.3]
+  gain_margin_db: inf
+  phase_margin_deg: 29.82380473991134
+  omega_cg_rad_s: nan
+  omega_cp_rad_s: 1.9076166157542167
